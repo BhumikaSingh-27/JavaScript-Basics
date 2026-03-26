@@ -130,3 +130,5 @@ const findLongestString = (arr) => {
   return longStr;
 };
 console.log(findLongestString(greetings));
+
+//============================
